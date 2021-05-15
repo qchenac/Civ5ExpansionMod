@@ -1083,7 +1083,7 @@
 	
 	// Industrial Era
 
-	{
+	/*{
 		"name": "Archaeologist",
 		"unitType": "Civilian",
 		"movement": 4,
@@ -1091,6 +1091,7 @@
 		"requiredTech": "Archaeology",
 		"uniques": ["Can construct [Archaeological Dig]","Requires [University]","Cannot be purchased"]
 	},
+	*/
 	{
 		"name": "Gatling Gun",
 		"unitType": "Ranged",
