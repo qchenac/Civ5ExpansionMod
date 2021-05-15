@@ -1686,26 +1686,26 @@
 		"name": "Great Artist",
 		"unitType": "Civilian",
 		"uniques": ["Can start an [8]-turn golden age", "Can construct [Landmark]", "Great Person - [Culture]", "Unbuildable"],
-		"movement": 2
+		"movement": 20
 	},
 	{
 		"name": "Great Scientist",
 		"unitType": "Civilian",
 		"uniques": ["Can hurry technology research", "Can construct [Academy]", "Great Person - [Science]", "Unbuildable"],
-		"movement": 2
+		"movement": 20
 	},
 	{
 		"name": "Great Merchant",
 		"unitType": "Civilian",
 		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
 			"Can construct [Customs house]", "Great Person - [Gold]", "Unbuildable"],
-		"movement": 2
+		"movement": 100
 	},
 	{
 		"name": "Great Engineer",
 		"unitType": "Civilian",
 		"uniques": ["Can speed up construction of a wonder", "Can construct [Manufactory]", "Great Person - [Production]", "Unbuildable"],
-		"movement": 2
+		"movement": 20
 	},
 	{
 		"name": "Great General",
