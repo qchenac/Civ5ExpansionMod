@@ -42,7 +42,7 @@
 		"movementCost": 1,
 		"defenceBonus": -0.1,
 		"RGB": [189,204,191],
-		"uniques": ["Occurs at temperature between [-1] and [-1] and humidity between [0.5] and [1]", "Open terrain"]
+		"uniques": ["Occurs at temperature between [-1] and [-1] and humidity between [0] and [0]", "Open terrain"]
 	},
 	{
 		"name": "Desert",
@@ -73,7 +73,7 @@
 		"movementCost": 1,
 		"defenceBonus": -0.1,
 		"RGB": [231, 242, 249],
-		"uniques": ["Occurs at temperature between [-1] and [-1] and humidity between [0] and [0.5]", "Open terrain"]
+		"uniques": ["Occurs at temperature between [-1] and [-1] and humidity between [0] and [0]", "Open terrain"]
 	},
 	
 	// Terrain features
