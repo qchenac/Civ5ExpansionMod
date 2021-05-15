@@ -507,7 +507,7 @@
 	},
 	{
 		"name": "Ambition",
-		"effect": "+[50]% Strength when attacking",
+		"effect": ["+[50]% Strength when attacking","[100]% Bonus XP gain"],
 		"prerequisites": ["Mystic Blade", "Ambition", "Invulnerability", "Restlessness"],
 		"unitTypes": ["Melee"]
 	},
