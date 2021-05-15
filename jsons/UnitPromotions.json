@@ -507,20 +507,19 @@
 	},
 	{
 		"name": "Ambition",
-		"effect": ["+[50]% Strength when attacking","[100]% Bonus XP gain"],
+		"effect": "+[50]% Strength when attacking",
 		"prerequisites": ["Mystic Blade", "Ambition", "Invulnerability", "Restlessness"],
 		"unitTypes": ["Melee"]
 	},
 	{
 		"name": "Invulnerability",
-		"effect": ["All healing effects doubled","Heals [100] damage if it kills a unit","+[30]% Strength when defending"],
-
+		"effect": "All healing effects doubled",
 		"prerequisites": ["Mystic Blade", "Ambition", "Invulnerability", "Restlessness"],
 		"unitTypes": ["Melee"]
 	},
 	{
 		"name": "Restlessness",
-		"effect": ["+1 Movement","1 additional attack per turn","Ignores terrain cost","Can move after attacking"],
+		"effect": "1 additional attack per turn",
 		"prerequisites": ["Mystic Blade", "Ambition", "Invulnerability", "Restlessness"],
 		"unitTypes": ["Melee"]
 	},
