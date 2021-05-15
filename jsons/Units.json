@@ -69,7 +69,7 @@
 		"name": "Pathfinder", //modded
 		"unitType": "Scout",
 		"replaces": "Scout",
-		"uniqueTo": "Korea",
+		"uniqueTo": "Shoshone",
 		"movement": 100,
 		"strength": 100,
 		"upgradesTo": "Composite Bowman",
