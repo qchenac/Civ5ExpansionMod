@@ -22,7 +22,7 @@
 		"movementCost": 1,
 		"defenceBonus": -0.1,
 		"RGB": [97,171,58],
-		"uniques": ["Occurs at temperature between [-0.4] and [0.8] and humidity between [0.5] and [1]", "Open terrain"]
+		"uniques": ["Occurs at temperature between [-1] and [0.8] and humidity between [0.5] and [1]", "Open terrain"]
 	},
 	{
 		"name": "Plains",
@@ -32,7 +32,7 @@
 		"movementCost": 1,
 		"defenceBonus": -0.1,
 		"RGB": [168,185,102],
-		"uniques": ["Occurs at temperature between [-0.4] and [0.8] and humidity between [0] and [0.5]",
+		"uniques": ["Occurs at temperature between [-1] and [0.8] and humidity between [0] and [0.5]",
 			"Occurs at temperature between [0.8] and [1] and humidity between [0.7] and [1]", "Open terrain"]
 	},
 	{
@@ -170,7 +170,7 @@
 		"type": "TerrainFeature",
 		"impassable": true,
 		"overrideStats": true,
-		"occursOn": ["Ocean", "Coast"]
+		"occursOn": ["Ocean"]
 	},
 	{
 		"name": "Atoll",
