@@ -508,20 +508,20 @@
 	{
 		"name": "Ambition",
 		"effect": "+[50]% Strength when attacking",
-		"prerequisites": ["Mystic Blade", "Ambition", "Invulnerability", "Restlessness"],
-		"unitTypes": ["Melee"]
+		"prerequisites": ["Mystic Blade", "Ambition", "Invulnerability", "Restlessness"]
+		//"unitTypes": ["Melee"]
 	},
 	{
 		"name": "Invulnerability",
 		"effect": "All healing effects doubled",
-		"prerequisites": ["Mystic Blade", "Ambition", "Invulnerability", "Restlessness"],
-		"unitTypes": ["Melee"]
+		"prerequisites": ["Mystic Blade", "Ambition", "Invulnerability", "Restlessness"]
+		//"unitTypes": ["Melee"]
 	},
 	{
 		"name": "Restlessness",
 		"effect": "1 additional attack per turn",
-		"prerequisites": ["Mystic Blade", "Ambition", "Invulnerability", "Restlessness"],
-		"unitTypes": ["Melee"]
+		"prerequisites": ["Mystic Blade", "Ambition", "Invulnerability", "Restlessness"]
+		//"unitTypes": ["Melee"]
 	},
 	{
 		"name": "Spear Throw", // only for Impi and subsequent upgrades
