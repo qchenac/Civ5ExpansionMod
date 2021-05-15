@@ -84,11 +84,12 @@
 	},
 
 	// Special improvement
-	{
+	/*{
 		"name": "Archaeological Dig",
 		"resourceTerrainAllow": ["Grassland","Plains","Forest","Jungle","Desert"],
 		"uniques": ["Can be built outside your borders"]
 	},
+	*/
 	{
 		"name": "Land Trade Route (Food)",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains","Marsh","Oasis"],
