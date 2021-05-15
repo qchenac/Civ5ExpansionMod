@@ -361,7 +361,7 @@
     },
     {
         "name": "Mausoleum of Halicarnassus",
-        "culture": 1,
+        "culture": 3,
         "greatPersonPoints": {"production": 1},
         "isWonder": true,
         "uniques": ["Provides a sum of gold each time you spend a Great Person",
@@ -377,13 +377,13 @@
         "name": "Lighthouse",
         "hurryCostModifier": 25,
         "maintenance": 1,
-        "uniques": ["Must be next to [Coast]","[+1 Food] from [Coast] tiles in this city",
+        "uniques": ["Must be next to [Coast]","[+1 Food] from [Coast] tiles in this city","[+1 Production] from [Water resource] tiles in this city",
         	"[+1 Food] from [Ocean] tiles in this city","[+1 Food] from [Fish] tiles in this city"],
         "requiredTech": "Optics"
     },
     {
         "name": "The Great Lighthouse",
-        "culture": 1,
+        "culture": 3,
         "greatPersonPoints": {"production": 1},
         "isWonder": true,
         "providesFreeBuilding":  "Lighthouse",
@@ -714,8 +714,8 @@
         "name": "Harbor",
         "maintenance": 2,
         "hurryCostModifier": 25,
-        "uniques": ["[+1 Production] from [Water resource] tiles in this city","[+1 Gold] from [Sea Trade Route (Food)] tiles in this city",
-            "[+1 Gold] from [Sea Trade Route (Production)] tiles in this city","[+1 Gold] from [Sea Trade Route (Gold)] tiles in this city",
+        "uniques": ["[+1 Production] from [Water resource] tiles in this city","[+2 Gold] from [Sea Trade Route (Food)] tiles in this city",
+            "[+2 Gold] from [Sea Trade Route (Production)] tiles in this city","[+2 Gold] from [Sea Trade Route (Gold)] tiles in this city",
             "Connects trade routes over water","Must be next to [Coast]"],
         "requiredTech": "Compass"
     },
