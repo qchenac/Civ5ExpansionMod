@@ -196,7 +196,7 @@
     },
     {
         "name": "Stonehenge",
-        "culture": 5,
+        "culture": 8,
         "isWonder": true,
         "greatPersonPoints": {"production": 1},
         "requiredTech": "Calendar",
@@ -275,7 +275,7 @@
         "isWonder": true,
         "cost": 185,
         "greatPersonPoints": {"production": 1},
-        "uniques": ["+[10]% growth [in all cities]","+[15]% Production when constructing [Ranged] units [in all cities]"],
+        "uniques": ["+[20]% growth [in all cities]","+[30]% Production when constructing [Ranged] units [in all cities]"，"+[30]% Production when constructing [Siege] units [in all cities]"],
         "requiredTech": "Archery",
         "quote": "'It is not so much for its beauty that the forest makes a claim upon men's hearts, as for that subtle something, that quality of air, that emanation from old trees, that so wonderfully changes and renews a weary spirit.' - Robert Louis Stevenson"
     },
@@ -326,7 +326,7 @@
         "name": "Colossus",
         "culture": 1,
         "gold": 5,
-        "greatPersonPoints": {"gold": 1},
+        "greatPersonPoints": {"production": 1},
         "isWonder": true,
         "uniques": ["Must be next to [Coast]","Provides [1] [Trade Route]","Free [Cargo Ship] appears","[+1 Gold] from [Water] tiles in this city"],
         "requiredTech": "Iron Working",
@@ -362,7 +362,7 @@
     {
         "name": "Mausoleum of Halicarnassus",
         "culture": 1,
-        "greatPersonPoints": {"gold": 1},
+        "greatPersonPoints": {"production": 1},
         "isWonder": true,
         "uniques": ["Provides a sum of gold each time you spend a Great Person",
             "[+2 Gold] from [Marble] tiles in this city", "[+2 Gold] from [Stone] tiles in this city"],
@@ -384,7 +384,7 @@
     {
         "name": "The Great Lighthouse",
         "culture": 1,
-        "greatPersonPoints": {"gold": 1},
+        "greatPersonPoints": {"production": 1},
         "isWonder": true,
         "providesFreeBuilding":  "Lighthouse",
         "uniques": ["Must be next to [Coast]", "All military naval units receive +1 movement and +1 sight"],
@@ -438,6 +438,7 @@
         "food": 6,
         "culture": 1,
         "providesFreeBuilding": "Garden",
+	 "greatPersonPoints": {"production": 1},
         "isWonder": true,
         "requiredTech": "Mathematics",
         "uniques": ["Requires [Tradition]"],
@@ -508,7 +509,7 @@
     },
     {
         "name": "Parthenon", //modded
-        "culture": 6,
+        "culture": 10,
         "isWonder": true,
         "greatPersonPoints": {"culture": 1},
         "requiredTech": "Drama and Poetry",
@@ -555,7 +556,7 @@
         "name": "Petra", //modded
         "isWonder": true,
         "greatPersonPoints": {"production": 1},
-        "culture": 1,
+        "culture": 3,
         "uniques": ["[+1 Food, +1 Production] from [Desert] tiles in this city","[+6 Culture] once [Archaeology] is discovered",
             "Provides [1] [Trade Route]","Free [Caravan] appears","Must be next to [Desert]"],
         "requiredTech": "Currency",
@@ -621,6 +622,7 @@
         "culture": 3,
         "isWonder": true,
         "providesFreeBuilding": "Mosque",
+	    "greatPersonPoints": {"production": 1},
         "uniques": ["[2] free [Missionary] units appear","Requires [Piety]"],
         "requiredTech": "Theology",
         "quote": "With the magnificence of eternity before us, let time, with all its fluctuations, dwindle into its own littleness.  – Thomas Chalmers"
@@ -670,7 +672,7 @@
     {
         "name": "Machu Picchu",
         "gold": 5,
-        "greatPersonPoints": {"gold": 1},
+        "greatPersonPoints": {"production": 1},
         "culture": 1,
         "isWonder": true,
         "uniques": ["Gold from all trade routes +25%","Must have an owned [Mountain] within [2] tiles"],
@@ -803,7 +805,7 @@
         "name": "Notre Dame",
         "culture": 3,
         "happiness": 10,
-        "greatPersonPoints": {"gold": 1},
+        "greatPersonPoints": {"production": 1},
         "isWonder": true,
         "requiredTech": "Physics",
         "quote": "'Architecture has recorded the great ideas of the human race. Not only every religious symbol, but every human thought has its page in that vast book.'  - Victor Hugo"
@@ -1052,7 +1054,7 @@
         "name": "Big Ben",
         "culture": 1,
         "gold": 4,
-        "greatPersonPoints": {"gold": 2},
+        "greatPersonPoints": {"production": 2},
         "isWonder": true,
         "uniques": ["Cost of purchasing items in cities reduced by [15]%","Requires [Commerce]"],
         "requiredTech": "Industrialization",
@@ -1105,7 +1107,7 @@
         "name": "Prora", //modded
         "culture": 1,
         "happiness": 2,
-        "greatPersonPoints": {"gold": 2},
+        "greatPersonPoints": {"production": 2},
         "isWonder": true,
         "uniques": ["Provides 1 happiness per 2 additional social policies adopted","Free Social Policy","Requires [Autocracy]"],
         "requiredTech": "Flight",
@@ -1122,7 +1124,7 @@
         "name": "Eiffel Tower", //adjusted
         "culture": 1,
         "happiness": 5,
-        "greatPersonPoints": {"gold": 2},
+        "greatPersonPoints": {"production": 2},
         "uniques": ["+[100]% [Culture] [in this city]"],
         "isWonder": true,
         "requiredTech": "Radio",
@@ -1195,7 +1197,7 @@
         "happiness": 2,
         "culture": 4,
         "gold": 6,
-        "greatPersonPoints": {"gold": 1},
+        "greatPersonPoints": {"production": 1},
         "isWonder": true,
         "uniques": ["[+1 Happiness, +2 Culture, +3 Gold] from every [Castle]",
             "Must have an owned [Mountain] within [2] tiles"],
