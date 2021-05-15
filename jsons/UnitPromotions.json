@@ -9,7 +9,7 @@
 	// Ranged+Siege
 	{
 		"name": "Accuracy I",
-		"effect": "Bonus vs units in open terrain 15%",
+		"effect": "+[15]% Strength in [Open terrain]",
 		"unitTypes": ["Siege","Ranged"]
 	},
 	{
