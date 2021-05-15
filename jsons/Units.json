@@ -1639,7 +1639,7 @@
 		"interceptRange": 2,
 		"cost": 425,
 		"requiredTech": "Robotics",
-		"uniques": ["[100]% chance to intercept air attacks","Can attack submarines",]
+		"uniques": ["[100]% chance to intercept air attacks","Can attack submarines"]
 	},
 	{
 		"name": "Jet Fighter", //modded
