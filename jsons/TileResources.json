@@ -42,7 +42,7 @@
 		"terrainsCanBeFoundOn": ["Plains","Flood plains","Desert"],
 		"food": 1,
 		"improvement": "Farm",
-		"improvementStats": {"food": 0},
+		"improvementStats": {"food": 1},
 		"building": "Granary"
 	},
 	{
