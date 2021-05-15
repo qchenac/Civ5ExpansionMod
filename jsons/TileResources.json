@@ -226,7 +226,7 @@
 	{
 		"name": "Marble",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Desert","Plains","Tundra","Hill","Grassland"],
+		"terrainsCanBeFoundOn": ["Desert","Plains","Tundra","Hill","Grassland","Desert Hill"],
 		"gold": 2,
 		"improvement": "Quarry",
 		"improvementStats": {"gold": 1,"production": 1},
@@ -306,7 +306,7 @@
 	{
 		"name": "Salt", //modded
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Plains", "Desert", "Tundra","Desert Hill"],
+		"terrainsCanBeFoundOn": ["Plains", "Desert", "Tundra"],
 		"gold": 1,
 		"food": 1,
 		"improvement": "Mine",
