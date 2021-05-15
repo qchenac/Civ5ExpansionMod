@@ -21,7 +21,7 @@
 	},
 	{
 		"name": "Mine",
-		"terrainsCanBeBuiltOn": ["Desert Hill", "Hill"],
+		"terrainsCanBeBuiltOn": ["Desert Hill", "Hill","Plains","Grassland","Desert"],
 		"production": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Mining",
@@ -55,7 +55,7 @@
 	},
 	{
 		"name": "Pasture",
-		"resourceTerrainAllow": ["Desert Hill"],
+		"resourceTerrainAllow": ["Desert Hill","Hill","Plains","Grassland","Desert","Tundra"],
 		"turnsToBuild": 8,
 		"techRequired": "Animal Husbandry",
 		"uniques": ["[+1 Food] once [Fertilizer] is discovered","Can be built outside your borders"]
@@ -70,6 +70,7 @@
 	},
 	{
 		"name": "Quarry",
+		"terrainsCanBeBuiltOn": ["Desert Hill","Plains","Grassland","Hill","Desert","Tundra"],
 		"turnsToBuild": 8,
 		"techRequired": "Masonry",
 		"uniques": ["[+1 Production] once [Chemistry] is discovered","Can be built outside your borders"],
