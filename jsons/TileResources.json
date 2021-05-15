@@ -329,7 +329,7 @@
 	},
 
 	// Ingame Mechanics
-	{
+	/*{
 		"name": "Antiquity Site", //modded
 		"resourceType": "Bonus",
 		"revealedBy": "Archaeology",
@@ -337,6 +337,7 @@
 		"improvement": "Archaeological Dig",
 		"improvementStats": {"culture": 7},
 	},
+	*/
 	{
 		"name": "Trade Route", //modded
 		"resourceType": "Strategic",
