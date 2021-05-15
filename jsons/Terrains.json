@@ -98,7 +98,8 @@
 		"defenceBonus": 0.25,
 		"occursOn": ["Desert"],
 		"rough": true,
-		"uniques": ["Rare feature"]
+		"uniques": ["Rare feature","Rough terrain", "[+5] Strength for cities built on this terrain",
+			"[+1] Sight for [Land] units", "Has an elevation of [2] for visibility calculations"]
 	},
 	{
 		"name": "Forest",
