@@ -60,7 +60,7 @@
 		"terrainsCanBeFoundOn": ["Coast"],
 		"food": 1,
 		"improvement": "Fishing Boats",
-		"improvementStats": {"food": 0},
+		"improvementStats": {"food": 1},
 		"building": "Lighthouse"
 	},
 	
@@ -240,7 +240,7 @@
 		"food": 1,
 		"gold": 1,
 		"improvement": "Fishing Boats",
-		"improvementStats": {"food": 0}
+		"improvementStats": {"food": 1}
 	},
 	{
 		"name": "Pearls",
@@ -248,7 +248,7 @@
 		"terrainsCanBeFoundOn": ["Coast"],
 		"gold": 2,
 		"improvement": "Fishing Boats",
-		"improvementStats": {"food": 0}
+		"improvementStats": {"food": 1}
 	}
 	{
 		"name": "Bison", //modded
