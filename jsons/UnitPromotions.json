@@ -424,7 +424,7 @@
 	{
 		"name": "Targeting I (air)",
 		"prerequisites": ["Interception I","Dogfighting I", "Siege I","Bombardment I"],
-		"effect": "+[15]% Strength vs [water units]",
+		"effect": "+[33]% Strength vs [water units]",
 		"unitTypes": ["Fighter","Bomber"]
 	},
 	{
@@ -487,11 +487,11 @@
 	},
 	{
 		"name": "Homeland Guardian", // only for Berber Cavalry and subsequent upgrades
-		"effect": "+20% bonus outside friendly territory"
+		"effect": "+[25]% Strength in [Friendly Land]"
 	},
 	{
 		"name": "Desert Warrior", // only for Berber Cavalry and subsequent upgrades
-		"effect": "+[50]% combat bonus in [Desert]"
+		"effect": "+[50]% Strength in [Desert]"
 	},
 	{
 		"name": "Feared Elephant", // only for Maori Warrior and subsequent upgrades
