@@ -136,7 +136,7 @@
 		"unbuildable": true,
 		"defenceBonus": -0.15,
 		"occursOn": ["Grassland"],
-		"uniques": ["Rare feature"]
+		"uniques": ["Rare feature", "Open terrain"]
 	},
 	{
 		"name": "Fallout",
@@ -157,7 +157,7 @@
 		"unbuildable": true,
 		"defenceBonus": -0.1,
 		"occursOn": ["Desert"],
-		"uniques": ["Fresh water", "Rare feature"]
+		"uniques": ["Fresh water", "Rare feature", "Open terrain"]
 	},
 	{
 		"name": "Flood plains",
@@ -165,15 +165,16 @@
 		"food": 2,
 		"movementCost": 1,
 		"defenceBonus": -0.1,
-		"occursOn": ["Desert"]
-		"uniques":["Open terrain"]
+		"occursOn": ["Desert"],
+		"uniques":["Open terrain", "Rare feature"]
 	},
 	{
 		"name": "Ice",
 		"type": "TerrainFeature",
 		"impassable": true,
 		"overrideStats": true,
-		"occursOn": ["Ocean", "Rare feature"]
+		"occursOn": ["Ocean"],
+		"uniques":["Rare feature"]
 	},
 	
 	{
