@@ -266,7 +266,8 @@
 				"column": 4
 			},
 			{
-				"name": "Patronage Complete"
+				"name": "Patronage Complete",
+				"uniques": ["City-State Influence degrades [25]% slower","Food and Culture from Friendly City-States are increased by 50%","City-State Influence recovers at twice the normal rate"],
 			}
 		]
 	},
