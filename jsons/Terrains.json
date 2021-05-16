@@ -166,15 +166,14 @@
 		"movementCost": 1,
 		"defenceBonus": -0.1,
 		"occursOn": ["Desert"],
-		"uniques":["Open terrain", "Rare feature"]
+		"uniques":["Open terrain"]
 	},
 	{
 		"name": "Ice",
 		"type": "TerrainFeature",
 		"impassable": true,
 		"overrideStats": true,
-		"occursOn": ["Ocean"],
-		"uniques":["Rare feature"]
+		"occursOn": ["Ocean"]
 	},
 	
 	{
