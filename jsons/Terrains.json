@@ -91,7 +91,7 @@
 		"uniques": ["Rough terrain", "[+5] Strength for cities built on this terrain",
 			"[+1] Sight for [Land] units", "Has an elevation of [2] for visibility calculations"]
 	},
-	{
+	/*{
 		"name": "Desert Hill",
 		"type": "TerrainFeature",
 		"production": 2,
@@ -103,6 +103,7 @@
 		"uniques": ["Rare feature","Rough terrain", "[+5] Strength for cities built on this terrain",
 			"[+1] Sight for [Land] units", "Has an elevation of [2] for visibility calculations"]
 	},
+	*/
 	{
 		"name": "Forest",
 		"type": "TerrainFeature",
