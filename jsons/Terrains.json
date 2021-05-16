@@ -168,14 +168,14 @@
 		"occursOn": ["Desert"]
 		"uniques":["Open terrain"]
 	},
-	/*{
+	{
 		"name": "Ice",
 		"type": "TerrainFeature",
 		"impassable": true,
 		"overrideStats": true,
-		"occursOn": ["Ocean"]
+		"occursOn": ["Ocean", "Rare feature"]
 	},
-	*/
+	
 	{
 		"name": "Atoll",
 		"type": "TerrainFeature",
