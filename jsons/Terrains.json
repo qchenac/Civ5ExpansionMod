@@ -173,7 +173,8 @@
 		"type": "TerrainFeature",
 		"impassable": true,
 		"overrideStats": true,
-		"occursOn": ["Ocean"]
+		"occursOn": ["Ocean"],
+		"uniques": ["Occurs at temperature between [-1] and [-1] and humidity between [0] and [0]"]
 	},
 	
 	{
