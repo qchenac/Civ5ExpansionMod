@@ -513,7 +513,7 @@
 	},
 	{
 		"name": "Invulnerability",
-		"uniques": ["All healing effects doubled","Heals [100] damage if it kills a unit","+[30]% Strength when defending"],
+		"uniques": ["All healing effects doubled","Heals [100] damage if it kills a unit","+[30]% Strength when defending","+10 HP when healing"],
 
 		"prerequisites": ["Mystic Blade", "Ambition", "Invulnerability", "Restlessness"],
 		"unitTypes": ["Melee"]
